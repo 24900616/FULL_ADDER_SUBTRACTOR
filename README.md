@@ -73,7 +73,9 @@ endmodule
 
 
 **RTL Schematic**
+FULL ADDER
 ![WhatsApp Image 2024-12-27 at 10 37 48_1fbea839](https://github.com/user-attachments/assets/f67eb484-8a31-425a-8280-198d1c470e49)
+FULL SUBTRACTOR
 ![WhatsApp Image 2024-12-27 at 10 38 44_b606f12b](https://github.com/user-attachments/assets/a8333b37-387e-4d41-b53d-99a08018c50a)
 
 **Output Timing Waveform**
