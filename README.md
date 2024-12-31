@@ -80,7 +80,10 @@ FULL SUBTRACTOR
 ![WhatsApp Image 2024-12-27 at 10 38 44_b606f12b](https://github.com/user-attachments/assets/a8333b37-387e-4d41-b53d-99a08018c50a)
 
 **Output Timing Waveform**
+
+FULL ADDER
 ![WhatsApp Image 2024-12-27 at 10 38 56_c16ed566](https://github.com/user-attachments/assets/1b6e9d84-05aa-406d-a5a9-a24043c94f10)
+FULL SUBTRACTOR
 ![WhatsApp Image 2024-12-27 at 10 39 09_03548f14](https://github.com/user-attachments/assets/76dd7c9e-369a-4a1f-8b88-021f383f8816)
 
 
