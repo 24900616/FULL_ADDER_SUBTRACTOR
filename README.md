@@ -73,6 +73,7 @@ endmodule
 
 
 **RTL Schematic**
+
 FULL ADDER
 ![WhatsApp Image 2024-12-27 at 10 37 48_1fbea839](https://github.com/user-attachments/assets/f67eb484-8a31-425a-8280-198d1c470e49)
 FULL SUBTRACTOR
